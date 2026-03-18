@@ -2,7 +2,7 @@ Config = {}
 
 Config.UseOxtarget = false
 Config.UseOxinventory = false
-Config.Debug = false
+Config.Debug = true
 
 Config.Meterprops = {
     'prop_parknmeter_02',
