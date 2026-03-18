@@ -1,7 +1,7 @@
 Config = {}
 
-Config.UseOxtarget = false
-Config.UseOxinventory = false
+Config.UseOxtarget = true
+Config.UseOxinventory = true
 Config.Debug = true
 
 Config.Meterprops = {
